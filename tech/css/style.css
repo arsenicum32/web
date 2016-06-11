@@ -1,0 +1,18 @@
+.b {
+  position: absolute;
+  right: -25vw;
+  top: -25vw;
+  width: 50vw;
+  height: 50vw;
+  background: #f00;
+  border-radius: 50%;
+}
+.r {
+  position: absolute;
+  left: 5vw;
+  top: 15vh;
+  width: 50vw;
+  height: 50vw;
+  background: #00f;
+  border-radius: 50%;
+}
